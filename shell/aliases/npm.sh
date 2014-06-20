@@ -1,0 +1,7 @@
+alias npmp="sudo npm publish"
+alias npma="sudo npm adduser"
+alias npmi="sudo npm install"
+alias npmg="sudo npm install -g"
+alias npmu="sudo npm update"
+alias npmr="sudo npm uninstall"
+alias npmrg="sudo npm uninstall -g"

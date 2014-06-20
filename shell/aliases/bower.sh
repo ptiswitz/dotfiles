@@ -1,0 +1,7 @@
+alias bowerst="bower init"
+alias bowers="bower search"
+alias boweri="bower install"
+alias boweris="bower install --save"
+alias bowerr="bower uninstall"
+alias bowerrs="bower uninstall --save"
+alias boweru="bower update"

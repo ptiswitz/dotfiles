@@ -1,0 +1,1 @@
+alias master="git checkout master"
