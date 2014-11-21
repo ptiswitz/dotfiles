@@ -10,6 +10,3 @@
 
 fresh freshshell/fresh bin/fresh --bin
 fresh ptiswitz/dotfiles shell/aliases/\*
-fresh jasoncodes/dotfiles config/gitconfig --file
-fresh foobacca/dotfiles shell/aliases-dir
-fresh foobacca/dotfiles bash/dircolors
