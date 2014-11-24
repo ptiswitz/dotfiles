@@ -10,3 +10,5 @@
 
 fresh freshshell/fresh bin/fresh --bin
 fresh ptiswitz/dotfiles shell/aliases/\*
+fresh jasoncodes/dotfiles shell/aliases/git.sh
+fresh foobacca/dotfiles shell/aliases-dir
